@@ -1,6 +1,4 @@
 # CECS-323
 Contains:
 
-Mini homeworks 
-Group Homework 
-Projects
+Mini homeworks, Group Homework, Projects
